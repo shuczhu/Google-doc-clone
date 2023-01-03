@@ -1,0 +1,47 @@
+[
+  {
+    "user": "James",
+    "content": "JavaScript",
+    "isSelected": true
+  },
+  {
+    "user": "James",
+    "content": "HTML"
+  },
+  {
+    "user": "James",
+    "content": "CSS"
+  },
+  {
+    "user": "James",
+    "content": "Node.js"
+  },
+  {
+    "user": "James",
+    "content": "Express.js"
+  },
+  {
+    "user": "James",
+    "content": "MySQL"
+  },
+  {
+    "user": "James",
+    "content": "MongoDB"
+  },
+  {
+    "user": "James",
+    "content": "React"
+  },
+  {
+    "user": "James",
+    "content": "GraphQL"
+  },
+  {
+    "user": "James",
+    "content": "Sequelize"
+  },
+  {
+    "user": "James",
+    "content": "Handlebars.js"
+  }
+]
